@@ -1,0 +1,16 @@
+{
+    "programs":[
+        {
+            "image":"/assets/img/feature_one.jpg",
+            "heading":"Desenvolvimento",
+            "paragraph":"Temos muita bagagem em projetos de desenvolvimento de software, trabalhando com times ágeis usando as metodologias mais novas do mercado.",
+            "href":"/"
+        },
+        {
+            "image":"/assets/img/feature_two.jpg",
+            "heading":"Soluções em Cloud",
+            "paragraph":"Nossas soluções em Cloud Computing são as mais tecnologicas e bem preparadas do mercado, possuímos infraestrutura própria de um grande data center.",
+            "href":"/"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "navItems":[
+        {
+            "href":"#showcase_div",
+            "page":"Sobre"
+        },
+        {
+            "href":"#programs_div",
+            "page":"Soluções"
+        },
+        {
+            "href":"#footer_div",
+            "page":"Contato"
+        }
+    ]
+}

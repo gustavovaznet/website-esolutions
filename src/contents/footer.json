@@ -1,0 +1,38 @@
+{
+    "links":[
+        {
+            "href":"/",
+            "paragraph":"Soluções"
+        },
+        {
+            "href":"/",
+            "paragraph":"Contato"
+        },
+        {
+            "href":"/",
+            "paragraph":"Suporte Técnico"
+        },
+        {
+            "href":"/",
+            "paragraph":"Carreiras"
+        }
+    ],
+    "social":[
+        {
+            "href":"/",
+            "paragraph":"Facebook"
+        },
+        {
+            "href":"/",
+            "paragraph":"Linkedin"
+        },
+        {
+            "href":"/",
+            "paragraph":"Instagram"
+        },
+        {
+            "href":"/",
+            "paragraph":"Snapchat"
+        }
+    ]
+}

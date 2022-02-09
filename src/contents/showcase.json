@@ -1,0 +1,25 @@
+{
+    "showcase":[
+        {
+            "image":"/assets/img/code.svg",
+            "heading":"Software",
+            "paragraph":"Nosso time de desenvolvimento cria soluções personalizadas para automatizar suas tarefas e os processos da sua empresa."
+        },
+        {
+            "image":"/assets/img/touch.svg",
+            "heading":"Aplicativos",
+            "paragraph":"Criamos soluções mobile para que a informação possa chegar a qualquer lugar na palma da sua mão."
+        },
+        {
+            "image":"/assets/img/dash.svg",
+            "heading":"Responsividade",
+            "paragraph":"Aplicações responsivas para impactar e gerar a melhor experiência para os usuários, tudo dentro dos padrões mais modernos do mercado."
+        },
+        {
+            "image":"/assets/img/star.svg",
+            "heading":"Qualidade",
+            "paragraph":"Nós nos preocupamos com a qualidade das nossas soluções por isso somos certificados pelas melhores e maiores empresas de tecnologia do mundo."
+        }
+        
+    ]
+}
